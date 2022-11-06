@@ -1,6 +1,6 @@
 .portfolio__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 2.5rem;
 }
 
@@ -19,7 +19,7 @@
 
 .portfolio__item-image{
     width: 100%;
-    height: fit-content;
+    height: auto;
     border-radius: 1.5rem;
     overflow: hidden;
 }

@@ -16,12 +16,8 @@
 .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
 }
 
-.about__me-image:hover {
-    transform: rotate(0);
-}
 
 .about__cards {
     display: grid;

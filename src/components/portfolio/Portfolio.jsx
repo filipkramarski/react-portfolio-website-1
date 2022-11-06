@@ -3,19 +3,33 @@ import React from "react";
 import IMG1 from '../../assets/img2.png';
 import IMG2 from '../../assets/img5.png';
 import './portfolio.css';
+import IMG3 from '../../assets/img3.png'
+import IMG4 from '../../assets/img4.png'
 
 const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Physical Health Application',
-        github: 'https://github.com/filipkramarski/PhysicalHealthApplication'
+        title: 'Rent A Bike Application',
+        github: 'https://github.com/filipkramarski/Rent_A_Bike'
     },
     {
         id: 2,
         image: IMG2,
-        title: 'Rent A Bike Application',
-        github: 'https://github.com/filipkramarski/Rent_A_Bike'
+        title: 'Physical Health Application',
+        github: 'https://github.com/filipkramarski/PhysicalHealthApplication'
+    },
+    {
+        id: 3,
+        image: IMG3,
+        title: 'E Shop Applicaation',
+        github: 'https://github.com/filipkramarski/eShop'
+    },
+    {
+        id: 4,
+        image: IMG4,
+        title: 'Employee Management Application',
+        github: 'https://github.com/filipkramarski/employee-system-api'
     },
 ]
 

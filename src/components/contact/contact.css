@@ -3,7 +3,6 @@
     display: grid;
     grid-template-columns: 30% 58%;
     gap: 12%;
-    height: 50vh;
 }
 
 .contact__options {
@@ -70,5 +69,6 @@ input, textarea {
     .container.contact__container {
         width: var(--container-width-sm);
     }
+
 }
 

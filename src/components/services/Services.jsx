@@ -17,23 +17,23 @@ const Services = () => {
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Research</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Prototyping</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Creativity and design</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Collaboration</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Communication</p>
                         </li>
                     </ul>
                 </article>
@@ -46,52 +46,23 @@ const Services = () => {
                     <ul className="service__list">
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Server Architecture</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Database administration</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Scalability</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Security</p>
                         </li>
                         <li>
                             <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
-                        </li>
-                    </ul>
-                </article>
-
-                <article className="service">
-                    <div className="service__head">
-                        <h3>Content Creation</h3>
-                    </div>
-
-                    <ul className="service__list">
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
-                        </li>
-                        <li>
-                            <BiCheck className="service__list-icon"/>
-                            <p>Coding</p>
+                            <p>Data transformation</p>
                         </li>
                     </ul>
                 </article>

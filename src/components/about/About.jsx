@@ -1,7 +1,9 @@
 import React from "react";
-import './about.css'
-import {MdOutlineSchool} from 'react-icons/md'
-import {VscFolderLibrary} from 'react-icons/vsc'
+import './about.css';
+import {MdOutlineSchool} from 'react-icons/md';
+import {VscFolderLibrary} from 'react-icons/vsc';
+import {MdOutlineSportsEsports} from 'react-icons/md';
+import IMG1 from '../../assets/IMG_0194.jpg'
 
 const About = () => {
     return (
@@ -12,7 +14,7 @@ const About = () => {
             <div className="container about__container">
                 <div className="about__me">
                     <div className="about__me-image">
-                        <img src="" alt="About Image"/>
+                        <img src={IMG1} alt="About Image"/>
                     </div>
                 </div>
 
@@ -29,7 +31,7 @@ const About = () => {
                                 <small>5 Projects Completed</small>
                             </article>
                             <article className="about__card">
-                                <MdOutlineSchool className="about__icon"/>
+                                <MdOutlineSportsEsports className="about__icon"/>
                                 <h5>Interests</h5>
                                 <small>Tennis</small>
                                 <br/>
